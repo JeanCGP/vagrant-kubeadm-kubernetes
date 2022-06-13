@@ -1,6 +1,7 @@
 https://www.wintips.org/fix-virtualbox-error-call-to-whvsetuppartition-failed-error_success/
 bcdedit /set hypervisorlaunchtype off
-
+Para restaurar al default: bcdedit /set hypervisorlaunchtype auto
+Esto es para que dockerhub funque sino no funca
 
 test k8s basic
 ---
