@@ -1,0 +1,2 @@
+https://www.wintips.org/fix-virtualbox-error-call-to-whvsetuppartition-failed-error_success/
+bcdedit /set hypervisorlaunchtype off
